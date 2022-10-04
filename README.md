@@ -44,5 +44,6 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=cemilhancakar&repo=yksekpuanhesaplama" width ="300">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=cemilhancakar&repo=roboc-sitesi-frontend" width ="300">
+<img src = "https://github-readme-stats.vercel.app/api?username=cemilhancakar&show_icons=true&theme=radical">
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cemilhancakar&layout=compact" width = "300">
