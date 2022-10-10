@@ -39,7 +39,7 @@
 <br>
 <br>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=cemilhancakar&show_icons=true&theme=midnight-purple" align="right" width="400">
+<img src = "https://github-readme-stats.vercel.app/api?username=cemilhancakar&show_icons=true&theme=midnight-purple"  width="400">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cemilhancakar&theme=nord_bright" width="700">
 
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=cemilhancakar&repo=yksekpuanhesaplama" width ="300">
