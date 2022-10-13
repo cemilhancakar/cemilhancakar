@@ -45,7 +45,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=cemilhancakar&repo=yksekpuanhesaplama" width ="300">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=cemilhancakar&repo=roboc-sitesi-frontend" width ="300">
 <img src = "https://github-readme-stats.vercel.app/api/pin/?username=cemilhancakar&repo=javascript-to-do-list" width ="300">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=cemilhancakar&repo=basics-of-web-design" width ="300">
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=cemilhancakar&repo=basics-of-web-design" width ="300" align="right">
 
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cemilhancakar&layout=compact" width = "300">
