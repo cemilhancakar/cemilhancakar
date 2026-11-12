@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="205" viewBox="0 0 1200 205" role="img" aria-labelledby="ttl"><title id="ttl">Technology stack: C#, .NET, ASP.NET Core, WPF, PostgreSQL, JavaScript, Python, Java, HTML &amp; CSS, Git</title><rect width="1200" height="205" rx="18" fill="#0b1324"/><g transform="translate(24,22)">
+ <rect width="220" height="72" rx="13" fill="#101b31" stroke="#354461"/>
+ <rect x="12" y="12" width="49" height="48" rx="11" fill="#a78bfa" fill-opacity=".14" stroke="#a78bfa" stroke-opacity=".50"/>
+ <text x="36.5" y="42" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#a78bfa">C#</text>
+ <text x="75" y="31" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#eef2ff">C#</text>
+ <text x="75" y="50" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#90a2c1">LANGUAGE</text>
+ </g><g transform="translate(259,22)">
+ <rect width="220" height="72" rx="13" fill="#101b31" stroke="#354461"/>
+ <rect x="12" y="12" width="49" height="48" rx="11" fill="#a78bfa" fill-opacity=".14" stroke="#a78bfa" stroke-opacity=".50"/>
+ <text x="36.5" y="42" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#a78bfa">.N</text>
+ <text x="75" y="31" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#eef2ff">.NET</text>
+ <text x="75" y="50" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#90a2c1">FRAMEWORK</text>
+ </g><g transform="translate(494,22)">
+ <rect width="220" height="72" rx="13" fill="#101b31" stroke="#354461"/>
+ <rect x="12" y="12" width="49" height="48" rx="11" fill="#60a5fa" fill-opacity=".14" stroke="#60a5fa" stroke-opacity=".50"/>
+ <text x="36.5" y="42" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#60a5fa">API</text>
+ <text x="75" y="31" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#eef2ff">ASP.NET Core</text>
+ <text x="75" y="50" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#90a2c1">BACKEND</text>
+ </g><g transform="translate(729,22)">
+ <rect width="220" height="72" rx="13" fill="#101b31" stroke="#354461"/>
+ <rect x="12" y="12" width="49" height="48" rx="11" fill="#67e8f9" fill-opacity=".14" stroke="#67e8f9" stroke-opacity=".50"/>
+ <text x="36.5" y="42" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#67e8f9">UI</text>
+ <text x="75" y="31" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#eef2ff">WPF</text>
+ <text x="75" y="50" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#90a2c1">DESKTOP</text>
+ </g><g transform="translate(964,22)">
+ <rect width="220" height="72" rx="13" fill="#101b31" stroke="#354461"/>
+ <rect x="12" y="12" width="49" height="48" rx="11" fill="#93c5fd" fill-opacity=".14" stroke="#93c5fd" stroke-opacity=".50"/>
+ <text x="36.5" y="42" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#93c5fd">DB</text>
+ <text x="75" y="31" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#eef2ff">PostgreSQL</text>
+ <text x="75" y="50" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#90a2c1">DATABASE</text>
+ </g><g transform="translate(24,112)">
+ <rect width="220" height="72" rx="13" fill="#101b31" stroke="#354461"/>
+ <rect x="12" y="12" width="49" height="48" rx="11" fill="#fde68a" fill-opacity=".14" stroke="#fde68a" stroke-opacity=".50"/>
+ <text x="36.5" y="42" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#fde68a">JS</text>
+ <text x="75" y="31" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#eef2ff">JavaScript</text>
+ <text x="75" y="50" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#90a2c1">LANGUAGE</text>
+ </g><g transform="translate(259,112)">
+ <rect width="220" height="72" rx="13" fill="#101b31" stroke="#354461"/>
+ <rect x="12" y="12" width="49" height="48" rx="11" fill="#86efac" fill-opacity=".14" stroke="#86efac" stroke-opacity=".50"/>
+ <text x="36.5" y="42" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#86efac">Py</text>
+ <text x="75" y="31" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#eef2ff">Python</text>
+ <text x="75" y="50" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#90a2c1">LANGUAGE</text>
+ </g><g transform="translate(494,112)">
+ <rect width="220" height="72" rx="13" fill="#101b31" stroke="#354461"/>
+ <rect x="12" y="12" width="49" height="48" rx="11" fill="#fca5a5" fill-opacity=".14" stroke="#fca5a5" stroke-opacity=".50"/>
+ <text x="36.5" y="42" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#fca5a5">J</text>
+ <text x="75" y="31" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#eef2ff">Java</text>
+ <text x="75" y="50" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#90a2c1">LANGUAGE</text>
+ </g><g transform="translate(729,112)">
+ <rect width="220" height="72" rx="13" fill="#101b31" stroke="#354461"/>
+ <rect x="12" y="12" width="49" height="48" rx="11" fill="#fb923c" fill-opacity=".14" stroke="#fb923c" stroke-opacity=".50"/>
+ <text x="36.5" y="42" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#fb923c">&lt;/&gt;</text>
+ <text x="75" y="31" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#eef2ff">HTML &amp; CSS</text>
+ <text x="75" y="50" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#90a2c1">WEB</text>
+ </g><g transform="translate(964,112)">
+ <rect width="220" height="72" rx="13" fill="#101b31" stroke="#354461"/>
+ <rect x="12" y="12" width="49" height="48" rx="11" fill="#fb7185" fill-opacity=".14" stroke="#fb7185" stroke-opacity=".50"/>
+ <text x="36.5" y="42" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#fb7185">G</text>
+ <text x="75" y="31" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#eef2ff">Git</text>
+ <text x="75" y="50" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="600" letter-spacing="1.2" fill="#90a2c1">TOOLS</text>
+ </g></svg>
