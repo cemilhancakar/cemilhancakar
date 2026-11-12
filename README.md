@@ -3,75 +3,44 @@
   <h3>Software Developer | Graphic Artist</h3>
   <p><i>"Code without ☕ is not code."</i></p>
 
-  <!-- Sosyal Medya Rozetleri (Modern & Çalışan CDN) -->
+  <!-- Sosyal Medya Bağlantıları (GitHub Yerleşik Stili) -->
   <p>
-    <a href="https://www.instagram.com/cemilhan_cakar" target="_blank">
-      <img src="https://shields.io" alt="Instagram" />
-    </a>
-    <a href="https://twitter.com/cemilhancakartw" target="_blank">
-      <img src="https://shields.io" alt="Twitter" />
-    </a>
-    <a href="https://www.linkedin.com/in/cemilhan-%C3%A7akar-9740a31a8/" target="_blank">
-      <img src="https://shields.io" alt="LinkedIn" />
-    </a>
+    <a href="https://instagram.com"><b>Instagram</b></a> •
+    <a href="https://twitter.com"><b>X (Twitter)</b></a> •
+    <a href="https://linkedin.com"><b>LinkedIn</b></a>
   </p>
 </div>
 
 <hr />
 
-<!-- Teknolojiler Bölümü -->
+<!-- Teknolojiler (Doğrudan GitHub CDN - Asla Kırılmaz) -->
 <div align="center">
   <h3>🛠️ Kullandığım Teknolojiler</h3>
   <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev" alt="Tech Stack" />
-    </a>
+    <img src="https://githubusercontent.com" alt="HTML5" width="40" height="40" />
+    &nbsp;&nbsp;
+    <img src="https://githubusercontent.com" alt="CSS3" width="40" height="40" />
+    &nbsp;&nbsp;
+    <img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40" />
+    &nbsp;&nbsp;
+    <img src="https://githubusercontent.com" alt="Python" width="40" height="40" />
+    &nbsp;&nbsp;
+    <img src="https://githubusercontent.com" alt="Java" width="40" height="40" />
+    &nbsp;&nbsp;
+    <img src="https://githubusercontent.com" alt="C#" width="40" height="40" />
   </p>
 </div>
 
-<br />
+<hr />
 
-<!-- GitHub İstatistikleri -->
-<div align="center">
-  <h3>📊 GitHub İstatistikleri</h3>
-  <p>
-    <img src="https://vercel.app" height="170" alt="GitHub Stats" />
-    <img src="https://vercel.app" height="170" alt="Top Languages" />
-  </p>
-  <p>
-    <img src="https://vercel.app" width="85%" alt="Profile Summary" />
-  </p>
-</div>
-
-<br />
-
-<!-- Öne Çıkan Projeler (Grid Düzeni) -->
+<!-- Öne Çıkan Projeler (Harici Sunucuya İhtiyaç Duymayan Şık Kartlar) -->
 <div align="center">
   <h3>🚀 Öne Çıkan Projelerim</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com">
-          <img src="https://vercel.app" alt="yksekpuanhesaplama" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com">
-          <img src="https://vercel.app" alt="roboc-sitesi-frontend" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com">
-          <img src="https://vercel.app" alt="javascript-to-do-list" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com">
-          <img src="https://vercel.app" alt="basics-of-web-design" />
-        </a>
-      </td>
-    </tr>
-  </table>
 </div>
+
+| Proje Adı | Açıklama | Teknoloji |
+| :--- | :--- | :--- |
+| **[yksekpuanhesaplama](https://github.com)** | YKS puan hesaplama uygulaması | Web / JS |
+| **[roboc-sitesi-frontend](https://github.com)** | Roboc web sitesi arayüz tasarımı | HTML / CSS |
+| **[javascript-to-do-list](https://github.com)** | Görev takip ve yapılacaklar listesi | JavaScript |
+| **[basics-of-web-design](https://github.com)** | Temel web tasarım prensipleri ve örnekleri | HTML / CSS |
