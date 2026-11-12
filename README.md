@@ -1,2 +1,77 @@
-# Merhaba 👋, ben Cemilhan ÇAKAR ### Yazılım Geliştirici ### Merhaba, ben Cemilhan. :grinning: ## Yazılım Geliştirici | Grafik Sanatçısı ## Beceriler <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt=".net10" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="c#" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="postgres" width="40" height="40"/>  </p> ## GitHub İstatistikleri <img src="https://github-readme-stats.vercel.app/api?username=cemilhancakar&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cemilhancakar&layout=compact&theme=null" alt="En çok kullanılan diller" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=cemilhancakar&theme=null" alt="GitHub Streak" /> ## GitHub Aktivite Grafiği <img src="https://github-readme-activity-graph.vercel.app/graph?username=cemilhancakar&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+<div align="center">
+  <h1>Merhaba, ben Cemilhan 👋</h1>
+  <h3>Software Developer | Graphic Artist</h3>
+  <p><i>"Code without ☕ is not code."</i></p>
 
+  <!-- Sosyal Medya Rozetleri (Modern & Çalışan CDN) -->
+  <p>
+    <a href="https://www.instagram.com/cemilhan_cakar" target="_blank">
+      <img src="https://shields.io" alt="Instagram" />
+    </a>
+    <a href="https://twitter.com/cemilhancakartw" target="_blank">
+      <img src="https://shields.io" alt="Twitter" />
+    </a>
+    <a href="https://www.linkedin.com/in/cemilhan-%C3%A7akar-9740a31a8/" target="_blank">
+      <img src="https://shields.io" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
+
+<hr />
+
+<!-- Teknolojiler Bölümü -->
+<div align="center">
+  <h3>🛠️ Kullandığım Teknolojiler</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev" alt="Tech Stack" />
+    </a>
+  </p>
+</div>
+
+<br />
+
+<!-- GitHub İstatistikleri -->
+<div align="center">
+  <h3>📊 GitHub İstatistikleri</h3>
+  <p>
+    <img src="https://vercel.app" height="170" alt="GitHub Stats" />
+    <img src="https://vercel.app" height="170" alt="Top Languages" />
+  </p>
+  <p>
+    <img src="https://vercel.app" width="85%" alt="Profile Summary" />
+  </p>
+</div>
+
+<br />
+
+<!-- Öne Çıkan Projeler (Grid Düzeni) -->
+<div align="center">
+  <h3>🚀 Öne Çıkan Projelerim</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com">
+          <img src="https://vercel.app" alt="yksekpuanhesaplama" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com">
+          <img src="https://vercel.app" alt="roboc-sitesi-frontend" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com">
+          <img src="https://vercel.app" alt="javascript-to-do-list" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com">
+          <img src="https://vercel.app" alt="basics-of-web-design" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
